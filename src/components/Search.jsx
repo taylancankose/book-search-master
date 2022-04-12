@@ -1,7 +1,6 @@
 import { useContext } from 'react'
 import BookContext from '../context/BookContext'
 import '../index.css'
-import {BiSearchAlt} from 'react-icons/bi'
 import {useNavigate} from 'react-router-dom'
 
 function Search() {
